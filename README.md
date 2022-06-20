@@ -26,14 +26,14 @@
 
 <br>
 
-<img src="https://ouch-cdn2.icons8.com/VXLhmCT8s0ZDccDgOSZsOpHtGaaZSr9wfKk00Tm2Tkw/rs:fit:256:100/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTYw/LzI3ZjdhOWMwLTJj/MzgtNDRiOS05OWFi/LTc5MTM1ODRjNTBm/OS5zdmc.png" min-width="250px" max-width="250px" width="250px" align="right" alt="ast">
 MY SKILLS:
 
  <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<h4> Ionic, Some Frameworks and other...</h4>
 
 <H4> Still Working on this... </H4>
 
