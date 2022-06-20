@@ -2,11 +2,10 @@
 <h1>HEY, HELLO!!!</h1>
 
 <br>
-<H4> My behance: </
-h4>
+
 <h2>WELCOME TO MY GITHUB!!!</h2>
 <br>
-
+<H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4>
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  <br>
@@ -44,5 +43,5 @@ MY SKILLS:
 
 <br>
   <p align="left">
-  💼Others Tools: <strong>PHOTOSHOP, ILUSTRATOR, SONY VEGAS</strong>
+  💼Others Tools: <strong>Photoshop, Ilustrator, Sony Vegas...</strong>
 </p>
