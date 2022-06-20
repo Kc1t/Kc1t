@@ -40,7 +40,7 @@ MY SKILLS:
 
 
 <!-- <img src="" /> -->
-<body style="background-color:black;">
+
 <br>
   <p align="left">
   💼Outras Ferramentas: <strong>PHOTOSHOP, ILUSTRATOR, SONY VEGAS</strong>
