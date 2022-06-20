@@ -1,10 +1,11 @@
 
-HEY, HELLO!!!
+<h1>HEY, HELLO!!!</h1>
 <br>
-WELCOME TO MY GITHUB!!!
+<h2>WELCOME TO MY GITHUB!!!</h2>
 <br>
 <br><br><br>
-[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
