@@ -33,8 +33,8 @@ MY SKILLS:
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="" />
 
+<H4> Still Working on this... </H4>
 
 
 
@@ -43,5 +43,5 @@ MY SKILLS:
 
 <br>
   <p align="left">
-  💼Outras Ferramentas: <strong>PHOTOSHOP, ILUSTRATOR, SONY VEGAS</strong>
+  💼Others Tools: <strong>PHOTOSHOP, ILUSTRATOR, SONY VEGAS</strong>
 </p>
