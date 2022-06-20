@@ -36,10 +36,23 @@ MY SKILLS:
 <h4> Ionic, Some Frameworks and other...</h4>
 
 Learning at the Moment:
-<p>
- <a> https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white </a>
-  <a> https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white </a>
+<p align="left">
+ 
+ <a> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "/> 
+ </a>
+ 
+  <a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ </a>
+ 
+ <a>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+ </a>
   
+ <a>
+ <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+ </a>
  </p>
 
 <H4> Still Working on this... </H4>
@@ -49,24 +62,10 @@ Learning at the Moment:
 
 <!-- 
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <a href="" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
-  </a>
-    <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://ouch-cdn2.icons8.com/VXLhmCT8s0ZDccDgOSZsOpHtGaaZSr9wfKk00Tm2Tkw/rs:fit:256:100/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTYw/LzI3ZjdhOWMwLTJj/MzgtNDRiOS05OWFi/LTc5MTM1ODRjNTBm/OS5zdmc.png"/>
-  </a>
-</p>
-
-
-
 <img src="" /> 
 -->
 
