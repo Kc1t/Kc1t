@@ -1,10 +1,11 @@
-<html>
+
 HEY, HELLO!!!
 <br>
 WELCOME TO MY GITHUB!!!
 <br>
 <br><br><br>
-[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 
@@ -22,4 +23,4 @@ MY SKILLS:
 
 <!-- <img src="" /> -->
 <body style="background-color:black;">
-<html>
+
