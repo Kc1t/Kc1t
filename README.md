@@ -3,11 +3,11 @@
 
 <br>
 
-<h2>WELCOME TO MY GITHUB!!!</h2>
+<h2>WELCOME TO MY GITHUB</h2>
 <br>
 <H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4>
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
  <br>
  <h3> About Me: </h3>
  
@@ -26,8 +26,9 @@
 
 <br>
 
-
+<img src="https://ouch-cdn2.icons8.com/VXLhmCT8s0ZDccDgOSZsOpHtGaaZSr9wfKk00Tm2Tkw/rs:fit:256:100/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTYw/LzI3ZjdhOWMwLTJj/MzgtNDRiOS05OWFi/LTc5MTM1ODRjNTBm/OS5zdmc.png" min-width="250px" max-width="250px" width="250px" align="right" alt="ast">
 MY SKILLS:
+
  <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
@@ -39,7 +40,28 @@ MY SKILLS:
 
 
 
-<!-- <img src="" /> -->
+<!-- 
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a>
+    <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+    <img src="https://ouch-cdn2.icons8.com/VXLhmCT8s0ZDccDgOSZsOpHtGaaZSr9wfKk00Tm2Tkw/rs:fit:256:100/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTYw/LzI3ZjdhOWMwLTJj/MzgtNDRiOS05OWFi/LTc5MTM1ODRjNTBm/OS5zdmc.png"/>
+  </a>
+</p>
+
+
+
+<img src="" /> 
+-->
 
 <br>
   <p align="left">
