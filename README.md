@@ -3,7 +3,7 @@
 
 <br>
 
-<h2>WELCOME TO MY GITHUB</h2>
+<h2>WELCOME TO MY GITHUB PAGE </h2>
 <br>
 <H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4>
 
