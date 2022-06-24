@@ -16,13 +16,18 @@
   I pretend to be a good programmer and designer (= <br>
   You can see more about my skills right below.
 </p>
-<H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4>
+ <!--<H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4> --> 
 <br>
 <br>
 
-<H6> SOME OF MY SKILLS: </H6>
+<H2> SOME OF MY SKILLS: </H2>
 <br>
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/></a> </p> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
+<br>
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="60" height="60"/> </a>  </p>
 
+
+<!--
 [![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
@@ -35,7 +40,6 @@
 
 Learning at the Moment:
 <p align="left">
- 
  <a> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "/> 
  </a>
@@ -52,22 +56,28 @@ Learning at the Moment:
  <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  </a>
  </p>
-
+-->
 <H4> Still Working on this... </H4>
 
 
-
-
-<!-- 
-<p align="left">
-  <a href="" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
-  </a>
-  
-<img src="" /> 
--->
-
 <br>
-  <p align="left">
-  💼Others Tools: <strong>Photoshop, Ilustrator, Sony Vegas...</strong>
+<!-- HALF -->
+
+
+<p align="lfet">
+ <H3>💼Others Tools: </H3> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+ </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+</p>
+
+
+
+
+<h3 align="left">My Social Medias:</h3>
+<p align="left">
+<a href="https://twitter.com/kc_1t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kc_1t" height="30" width="40" /></a>
+<a href="https://instagram.com/kaua_mtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaua_mtds" height="30" width="40" /></a>
+<a href="https://www.behance.net/Kc_16?tracking_source=search_users%7CKau%C3%A3%20Miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kauã miguel" height="30" width="40" /></a>
 </p>
