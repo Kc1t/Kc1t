@@ -112,4 +112,5 @@ Learning at the Moment:
 <a href="https://instagram.com/kaua_mtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaua_mtds" height="30" width="40" /></a>
 <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7CKau%C3%A3%20Miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kauã miguel" height="30" width="40" /></a>
 </p>
-![Snake animation](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
