@@ -5,6 +5,25 @@
 
 <h2>WELCOME TO MY GITHUB PAGE </h2>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
+<p align="left">
+  At the moment i am studying at Etec Albert Einstein <br>
+  Working with e-commerce management... <br>
+  A big fan of mobile, websites development and database <br>
+  I pretend to be a good Programmer and Designer (= <br>
+  You can see more about my skills right below.
+</p>
+
+<h3>-- 🚀 My Skills --</h3>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<!--
 <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
  <br>
@@ -18,7 +37,7 @@
   I pretend to be a good programmer and designer (= <br>
   You can see more about my skills right below.
 </p>
- <!--<H4> My Behance(Some of My Photoshop Desings): <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7Ckau%C3%A3%20miguel">Kauã Miguel Behance</a> </h4> --> 
+
 <br>
 <br>
 <h3>-- 🚀 My Skills --</h3>
@@ -47,7 +66,7 @@
 </p>
 
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="60" height="60"/> </a>  
--->
+
 
 <h3 align="left">-- Learning At The Moment:  --</h3>
 <p align="left"> 
@@ -57,7 +76,7 @@
 </p>
 
 
-<!--
+
 [![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
@@ -86,10 +105,10 @@ Learning at the Moment:
  <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  </a>
  </p>
--->
+
 
 <br>
-<!-- HALF -->
+
 
 
 <p align="lfet">
@@ -108,5 +127,5 @@ Learning at the Moment:
 </p>
 
 [![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
