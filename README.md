@@ -4,6 +4,7 @@
 <br>
 
 <h2>WELCOME TO MY GITHUB PAGE </h2>
+
 <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
  <br>
@@ -56,7 +57,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/> </a>
 </p>
 
-[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -88,8 +88,6 @@ Learning at the Moment:
  </a>
  </p>
 -->
-<H4> Still Working on this... </H4>
-
 
 <br>
 <!-- HALF -->
@@ -103,14 +101,13 @@ Learning at the Moment:
 
 </p>
 
-
-
-
 <h3 align="left">My Social Medias:</h3>
 <p align="left">
 <a href="https://twitter.com/kc_1t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kc_1t" height="30" width="40" /></a>
 <a href="https://instagram.com/kaua_mtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaua_mtds" height="30" width="40" /></a>
 <a href="https://www.behance.net/Kc_16?tracking_source=search_users%7CKau%C3%A3%20Miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kauã miguel" height="30" width="40" /></a>
 </p>
+
+[![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
