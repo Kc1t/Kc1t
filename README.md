@@ -137,5 +137,6 @@ Learning at the Moment:
 
 [![kc1t](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<h3></h3>
+<h3>-</h3>
+
 ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
