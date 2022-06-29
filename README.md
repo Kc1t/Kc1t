@@ -1,8 +1,5 @@
 
 <h1>HEY, HELLO!!!</h1>
-
-<br>
-
 <h2>WELCOME TO MY GITHUB PAGE </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
