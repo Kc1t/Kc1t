@@ -22,7 +22,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
-<h3>-- Learning At The Moment -- </h3>
+<h3>-- 📚 Learning At The Moment -- </h3>
 
 <p align="left">
 <code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code>
@@ -31,7 +31,7 @@
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 </p>
 
-<H3>-- Social Media --</h3>
+<H3>-- Social Media ⤵️ --</h3>
 <div> 
   <a href="https://www.behance.net/Kc_16?tracking_source=search_users|kau%C3%A3%20miguel" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
