@@ -25,9 +25,10 @@
 <h3>-- Learning At The Moment -- </h3>
 
 <p align="left">
-<code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Javascript"/></code>
-
+<code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql"/></code>
+<code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 </p>
 
 <H3>-- Social Media --</h3>
