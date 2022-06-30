@@ -149,4 +149,4 @@ Learning at the Moment:
 -->
 
 
-![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
+
