@@ -31,6 +31,15 @@
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 </p>
 
+<H3>-- ☄️Other Skills --</h3>
+
+<p align="left">
+  
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" alt="Photo"/></code>
+      <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
+</p>
+
+
 <H3>-- Social Media ⤵️ --</h3>
 <div> 
   <a href="https://www.behance.net/Kc_16?tracking_source=search_users|kau%C3%A3%20miguel" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
