@@ -1,7 +1,7 @@
 
 <h1>HEY, HELLO!!!</h1>
 <h2>🔶	WELCOME TO MY GITHUB PAGE 🔶</h2>
-
+<hr> </hr>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
   At the moment i am studying at Etec Albert Einstein <br>
@@ -10,7 +10,6 @@
   I pretend to be a good Programmer and Designer (= <br>
   You can see more about my skills right below.
 </p>
-<hr> </hr>
 
 <h3>-- 🚀 My Skills --</h3>
 
