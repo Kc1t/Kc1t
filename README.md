@@ -10,6 +10,7 @@
   I pretend to be a good Programmer and Designer (= <br>
   You can see more about my skills right below.
 </p>
+<hr> </hr>
 
 <h3>-- 🚀 My Skills --</h3>
 
@@ -46,7 +47,7 @@
   <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-   
+   <hr></hr>
    ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
   
 <!--
