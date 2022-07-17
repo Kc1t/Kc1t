@@ -7,7 +7,7 @@
   At the moment i am studying at Etec Albert Einstein <br>
   <!-- Working with e-commerce management... <br> -->
   A big fan of mobile, websites development and database <br>
-  I pretend to be a good Programmer (= <br>
+  I pretend to be a good Dev (= <br>
   You can see more about my skills right below.
 </p>
 
