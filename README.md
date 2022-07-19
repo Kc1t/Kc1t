@@ -1,5 +1,5 @@
 
-<h1>🔶HEY, HELLO!!!🔶</h1>
+<h1>HEY, HELLO!!!</h1>
 
 <hr> </hr>
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
