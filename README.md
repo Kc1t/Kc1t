@@ -1,6 +1,6 @@
 
-<h1>HEY, HELLO!!!</h1>
-<h2>🔶	WELCOME TO MY GITHUB PAGE 🔶</h2>
+<h1>🔶HEY, HELLO!!!🔶</h1>
+
 <hr> </hr>
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
