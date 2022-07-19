@@ -5,9 +5,7 @@
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
   At the moment i am studying at Etec Albert Einstein <br>
-  <!-- Working with e-commerce management... <br> -->
-  A big fan of mobile, websites development and database <br>
-  I pretend to be a good Dev (= <br>
+  Planning to become a Full Stack Dev                  <br>
   You can see more about my skills right below.
 </p>
 
@@ -39,16 +37,17 @@
       <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
 </p>
 
+   <hr></hr>
+   <div align="center"
+   
+   [![card](https://github-readme-stats.vercel.app/api?username=kc1t&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   
+   ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
 
-<H3>-- Social Media ⤵️ --</h3>
-<div> 
+</div>
+
+<div align="center"> 
   <a href="https://www.behance.net/Kc_16?tracking_source=search_users|kau%C3%A3%20miguel" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-   <hr></hr>
-   
-   
-   
-   ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
-  
