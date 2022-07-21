@@ -9,7 +9,7 @@
   You can see more about my skills right below.
 </p>
 
-<h3>-- 🚀 My Skills --</h3>
+<h3>🚀 My Skills</h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -20,7 +20,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
-<h3>-- 📚 Learning At The Moment -- </h3>
+<h3>📚 Learning At The Moment</h3>
 
 <p align="left">
 <code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code>
@@ -29,7 +29,7 @@
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 </p>
 
-<H3>-- ☄️Other Skills --</h3>
+<H3>☄️Other Skills</h3>
 
 <p align="left">
   
