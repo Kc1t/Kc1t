@@ -24,7 +24,6 @@
 <h3>📚 Learning At The Moment</h3>
 
 <p align="left">
-<code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql"/></code>
 <code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
@@ -52,3 +51,5 @@
   <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- <code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code> -->
