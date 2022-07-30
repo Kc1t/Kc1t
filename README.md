@@ -4,7 +4,7 @@
 <hr> </hr>
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
- <strong> | Student | Frontend | Backend | Learning to become FullStack |</strong> <br> 
+ <strong> | Student | Frontend | Backend | Studying to become FullStack |</strong> <br> 
  <br> 
   You can see more of my skills and learnings right below.
 </p>
