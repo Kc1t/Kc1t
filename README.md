@@ -40,7 +40,7 @@
    <hr></hr>
    <div align="center"
    
-   [![card](https://github-readme-stats.vercel.app/api?username=kc1t&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   <!--[![card](https://github-readme-stats.vercel.app/api?username=kc1t&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
    
    ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
 
