@@ -1,12 +1,12 @@
 
-<h1>HEY, HELLO!!!</h1>
+<h1>HEY, HELLO!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <hr> </hr>
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
- <strong> | Student | Frontend | Backend | Studying to become FullStack |</strong> <br> 
+<!-- <strong> | Student | Frontend | Backend | Studying to become FullStack |</strong> <br> -->
  <br> 
-  You can see more of my skills and learnings right below.
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=19&duration=4989&color=FFFFFF&lines=Frontend+-+Backend+-+Mobile+;UX+And+UI+;Welcome+(%3D" alt="Typing SVG" /></a>
 </p>
 
 <h3>🚀 My Skills</h3>
