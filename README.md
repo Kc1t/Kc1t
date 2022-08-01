@@ -37,8 +37,16 @@
       <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
 </p>
 
+
    <hr></hr>
-   <div align="center"
+   
+    
+
+   
+   <div align="center">
+   
+   
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats)
    
    <!--[![card](https://github-readme-stats.vercel.app/api?username=kc1t&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
    
@@ -51,5 +59,7 @@
   <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
 
 <!-- <code><img height="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Fire"/></code> -->
