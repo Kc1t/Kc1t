@@ -6,7 +6,7 @@
 <p align="left">
 <!-- <strong> | Student | Frontend | Backend | Studying to become FullStack |</strong> <br> -->
  <br> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=17&multiline=true&lines=Frontend+-++Backend+-+Mobile;Welcome+and+Have+a+Great+Day+(%3D+....;......." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=500&color=0053F7&lines=Frontend+%7C+Backend+%7C+Mobile;Welcome+...+(%3D" alt="Typing SVG" /></a>
 </p>
 
 <h3>🚀 My Skills</h3>
