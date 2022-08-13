@@ -1,6 +1,7 @@
 
 <h1>HEY, HELLO!!!</h1>
 
+
 <hr> </hr>
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
@@ -47,7 +48,13 @@
    
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats)
-   
+ 
+  
+  
+<!--    ![trophy](https://github-profile-trophy.vercel.app/?username=kc1t&title=Commit,Followers&theme=radical) -->
+  <!--  repositories, issues, pull requests, star -->
+  
+
    <!--[![card](https://github-readme-stats.vercel.app/api?username=kc1t&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
    
    ![snake gif](https://github.com/Kc1t/Kc1t/blob/output/github-contribution-grid-snake.svg)
