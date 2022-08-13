@@ -1,13 +1,20 @@
 
 <h1>HEY, HELLO!!!</h1>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>   
 
-<hr> </hr>
+
+<!-- <hr> </hr> -->
+
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 <p align="left">
+ 
 <!-- <strong> | Student | Frontend | Backend | Studying to become FullStack |</strong> <br> -->
- <br> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=500&color=0053F7&lines=Frontend+%7C+Backend+%7C+Mobile;Welcome+...+(%3D" alt="Typing SVG" /></a>
+<!--  <br> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=500&color=0053F7&lines=Frontend+%7C+Backend+%7C+Mobile;Welcome+...+(%3D" alt="Typing SVG" /></a> -->
+ 
 </p>
 
 <h3>🚀 My Skills</h3>
@@ -38,8 +45,10 @@
       <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
 </p>
 
-
-   <hr></hr>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<!--    <hr></hr> -->
    
     
 
