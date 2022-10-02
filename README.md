@@ -44,10 +44,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
  
-<!--   <hr></hr> -->
+<!--   <hr></hr>  -->
  
  <div align="center">
+     <a href="https://github.com/Kc1t">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
    
+  
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats)
  
   <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=kc1t&title=Commit,Followers&theme=radical) -->
@@ -65,6 +68,15 @@
  <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
+
+
+
+
+
+
+
+
+
 
 <!--
 
