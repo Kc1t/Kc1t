@@ -12,7 +12,7 @@
   
 </p>
 
-<h3>🚀 My Skills</h3>
+<h3>🚀 My Tools</h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -33,7 +33,7 @@
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 </p>
 
-<H3>☄️Other Skills</h3>
+<H3>☄️Other Tools</h3>
 <p align="left">
   
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" alt="Photo"/></code>
@@ -88,10 +88,10 @@ const kc1t= {
     askMeAbout: ["web dev", "tech", "music", "f1"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["Tailwind"]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["Firebase", "node"]
         }        
     }
 };
