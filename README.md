@@ -51,7 +51,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
    
   
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats)
+<!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats) -->
  
   <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=kc1t&title=Commit,Followers&theme=radical) -->
   <!--  repositories, issues, pull requests, star -->
