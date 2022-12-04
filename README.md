@@ -8,9 +8,6 @@
 <!-- <hr> </hr> -->
 
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
-<p align="left">
-  
-</p>
 
 <h3>🚀 My Tools</h3>
 
@@ -45,10 +42,13 @@
 <br>
  
 <!--   <hr></hr>  -->
- 
+   <div align="center">
+     
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=endman879&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=2f0995&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+     
+     
  <div align="center">
-     <a href="https://github.com/Kc1t">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
+     <a href="https://github.com/Kc1t"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
    
   
 <!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats) -->
@@ -69,13 +69,8 @@
  
 </div>
 
-
-
-
-
-
-
-
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=endman879&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) -->
 
 
 <!--
