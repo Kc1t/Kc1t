@@ -1,10 +1,12 @@
 
-<h1>HEY, HELLO!!!</h1>
+<h1 align="center">HEY, HELLO!!!</h1>
 
-<p  align="center">
+### <div align="center">I'm Kauã, Freelance Developer And Student 👨‍💻</div>  
+
+<!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>   
-
+ -->
 <!-- <hr> </hr> -->
 
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
