@@ -11,7 +11,7 @@
 
 <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado">
 
-<h3>🚀 My Tools</h3>
+<h3>🚀Developing Tools</h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -34,7 +34,7 @@
 <code><img height="32" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="native"/></code>
 </p>
 
-<H3>☄️Other Tools</h3>
+<H3>☄️Designing Tools</h3>
 <p align="left">
   
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" alt="Photo"/></code>
