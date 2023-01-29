@@ -37,7 +37,8 @@
 <H3>☄️Designing Tools</h3>
 <p align="left">
   
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" alt="Photo"/></code>
+  <code><img height="32" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png"  alt="photoshop"/></code>
+    <code><img height="32" src="https://play-lh.googleusercontent.com/RGvuFCqPOIiR1i9QDN6-HNt5nOuWj4zuqQduxnJn0ughdo-yhAJNG1r6W1A3Fc6Z9w=w240-h480-rw" alt="photoshop"/></code>
       <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
 </p>
 
