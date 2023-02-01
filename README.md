@@ -18,10 +18,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react"/></code> <br>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql"/></code>
-<code><img height="32" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDb"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/7c2f6c198780a56de18afde538d2856e4e197ef4df3aa77c6dd1799b01289959/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667" alt="MongoDb"/></code>
 <code><img height="32" src="https://ionicframework.com/img/meta/logo.png" alt="Ionic"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind"/></code>
-
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="Tailwind"/></code>
 
 <!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>-->
 
