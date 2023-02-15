@@ -27,13 +27,13 @@
 <!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>-->
 
 <!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code> -->
-<h3>📚 Learning At The Moment</h3>
+<!-- <h3>📚 Learning At The Moment</h3>
 
 <p align="left">
 <code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"/></code>
 <code><img height="32" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="native"/></code>
-</p>
+</p> -->
 
 <H3>☄️Designing Tools</h3>
 <p align="left">
