@@ -2,7 +2,7 @@
 <h1 align="center">HEY, HELLO!!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="52px"> </h1>
 
 
-### <div align="center">I'm Kauã, Freelance Developer And Student 👨‍💻</div>  
+### <div align="center">I'm Kauã, Freelance Full Stack Developer 👨‍💻</div>  
 
 <!-- <img src="https://i.ibb.co/VV3wHkN/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computado"> -->
 
