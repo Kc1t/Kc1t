@@ -14,5 +14,5 @@ Experienced Fullstack Developer with over 4 years of hands-on experience, blendi
 <div align="center"> 
     <a href="https://www.behance.net/Kc_16?tracking_source=search_users|kau%C3%A3%20miguel" target="_blank" ><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://z-p42.www.instagram.com/kaua_mtds/?hl=af" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kau%C3%A3-miguel-a107b71b9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kaua-miguel/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
