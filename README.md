@@ -1,7 +1,7 @@
 [![Header](https://ik.imagekit.io/z3fr9lhps/Portfolio/GithubBanner.png?updatedAt=1715471052173 "Header")](https://github.com/kc1t)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Hello! 
-Experienced Fullstack Developer with over 4 years of hands-on experience, blending a passion for design with a knack for automating processes, Currently delving into cybersecurity as a hobby, I thrive on staying abreast of the latest technologies and eagerly seek out new and exciting projects to contribute to.
+Junior Fullstack Developer at 18 years old with over 4 years of hands-on experience. I have a passion for design and a knack for automating processes. Currently delving into cybersecurity as a hobby, I thrive on staying updated with the latest technologies and eagerly seek out new and exciting projects to contribute to.
 
 ## 📊 >_ Statistics
 <div align="center"> 
