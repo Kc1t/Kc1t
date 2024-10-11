@@ -3,11 +3,11 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Hello! 
 Junior Fullstack Developer at 18 years old with over 4 years of hands-on experience. I have a passion for design and a knack for automating processes. Currently delving into cybersecurity as a hobby, I thrive on staying updated with the latest technologies and eagerly seek out new and exciting projects to contribute to.
 
+<!--
 ## 📊 >_ Statistics
 <div align="center"> 
-
-  <a href="https://github.com/Kc1t"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats) 
+ <a href="https://github.com/Kc1t"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc1t&layout=compact&langs_count=7&theme=radical"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical)](https://git.io/streak-stats) -->
 </div>
 
 
