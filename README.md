@@ -6,7 +6,7 @@ I’ve been waiting for you...
 
 ## ℹ️ >_ Public Information
 
-I'm Kauã Miguel, an 18-year-old Brazilian student and developer. I've been studying programming since I was 14, when I (kind of) gave up on design because my computer couldn't handle design software but could run Html and JavaScript.
+I'm Kauã Miguel, an 19-year-old Brazilian student and developer. I've been studying programming since I was 14, when I (kind of) gave up on design because my computer couldn't handle design software but could run Html and JavaScript.
 
 While I focus on improving my programming skills, I also enjoy web design and cybersecurity as professional hobbies.
 
