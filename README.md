@@ -31,11 +31,11 @@ Right now, I'm dedicated to creating new and innovative things for the internet.
       <a href="https://tech.kc1t.com/post/estudando-programacao-em-tempos-de-ia"><b>Estudando em tempos de IA</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://tech.kc1t.com/post/warp-o-terminal-com-ia-que-todo-desenvolvedor-precisa-conhecer">
-        <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsidtxy6zzzj9aorjils.png" width="100%" alt="Vídeo 3"/>
+      <a href="https://www.youtube.com/watch?v=o34iWLclZFM">
+        <img src="https://img.youtube.com/vi/o34iWLclZFM/mqdefault.jpg" width="100%" alt="Vídeo 3"/>
       </a>
       <br/>
-      <a href="https://tech.kc1t.com/post/warp-o-terminal-com-ia-que-todo-desenvolvedor-precisa-conhecer"><b>Warp: O Terminal com IAl.</b></a>
+     <a href="https://www.youtube.com/watch?v=o34iWLclZFM"><b>Olá Mundo!</b></a>
     </td>
   </tr>
 </table>
