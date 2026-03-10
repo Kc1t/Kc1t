@@ -2,9 +2,10 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/>  >_ Ah, Hello! 
 
-I've been waiting for you...
-(glad you finally made it.)
+I've been waiting for you... (glad you finally made it.)
+
 I'm Kauã Miguel, an 19-year-old Brazilian student and developer. I've been studying programming since I was 14, when I (kind of) gave up on design because my computer couldn't handle design software but could run Html and JavaScript.
+
 While I focus on improving my programming skills, I also enjoy web design and cybersecurity as professional hobbies.
 Right now, I'm dedicated to creating new and innovative things for the internet.
 ## 🎬 >_ Últimos Conteúdos
