@@ -18,8 +18,7 @@ These days I build things for the web, with a growing interest in software archi
 ## >_ Statistics & Social
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kc1t&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical&hide_border=true"/>
+  <img height="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Kc1t&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
