@@ -10,10 +10,11 @@ These days I build things for the web, with a growing interest in software archi
 
 ## >_ About Me
 
-- **B.Sc. in Systems Analysis & Development** — UNIP
-- **Postgraduate in Software Architecture** — FIAP *(in progress)*
-- **2x AWS Certified** · **1x Azure Certified**
-- **C1 English** — Cambridge Linguaskill
+* **Technical Degree in Systems Development** — ETEC Albert Einstein
+* **B.Sc. in Systems Analysis & Development** — UNIP
+* **Postgraduate Studies in Software Architecture** — FIAP *(in progress)*
+* **2x AWS Certified** · **1x Azure Certified**
+* **C1 English** — Cambridge Linguaskill
 
 ## >_ Statistics & Social
 
