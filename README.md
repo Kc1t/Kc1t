@@ -47,10 +47,6 @@ These days I build things for the web, with a growing interest in software archi
 ## 📊 >_ Statistics & Social
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Kc1t&theme=radical&hide_border=true&card_width=850"/>
-</div>
-
-<div align="center">
   <a href="https://www.youtube.com/@kc_1t"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kaua-miguel/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/kc1t"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
