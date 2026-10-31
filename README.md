@@ -16,30 +16,80 @@ These days I build things for the web, with a growing interest in software archi
 * **2x AWS Certified** · **1x Azure Certified**
 * **C1 English** — Cambridge Linguaskill
 
-## 🎬 >_ Últimos Conteúdos
+## 🎬 >_ Vídeos mais vistos
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=XK-zLxFaATo&t=2s">
-        <img src="https://img.youtube.com/vi/XK-zLxFaATo/mqdefault.jpg" width="100%" alt="Hermes Agente de IA"/>
-      </a>
+      <a href="https://www.youtube.com/watch?v=fbSyFc-izIg"><img src="https://img.youtube.com/vi/fbSyFc-izIg/maxresdefault.jpg" width="100%" alt="Como Usar o REA: Engenharia Reversa com IA DE GRAÇA"/></a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=XK-zLxFaATo&t=2s"><b>Como Usar o Hermes, o Agente de IA Autônomo</b></a>
+      <a href="https://www.youtube.com/watch?v=fbSyFc-izIg"><b>Como Usar o REA: Engenharia Reversa com IA DE GRAÇA</b></a>
+      <br/>
+      <sub>👁 234 mil visualizações</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=ak8-kN1PTWQ&t=49s">
-        <img src="https://img.youtube.com/vi/ak8-kN1PTWQ/mqdefault.jpg" width="100%" alt="Diferença entre ferramentas de IA"/>
-      </a>
+      <a href="https://www.youtube.com/watch?v=8jvrucR7QCU"><img src="https://img.youtube.com/vi/8jvrucR7QCU/maxresdefault.jpg" width="100%" alt="Pare de Usar 1 Agente de IA Por Vez: Orquestre Agentes de IA"/></a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=ak8-kN1PTWQ&t=49s"><b>Entenda de Vez a Diferença Entre Essas Ferramentas de IA</b></a>
+      <a href="https://www.youtube.com/watch?v=8jvrucR7QCU"><b>Pare de Usar 1 Agente de IA Por Vez: Orquestre Agentes de IA</b></a>
+      <br/>
+      <sub>👁 233 mil visualizações</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://kc1t.com/pt-br/logs/1000-dolares-meu-primeiro-hackathon-e-um-dos-maiores-desafios-que-ja-tive-como-dev">
-        <img src="https://ik.imagekit.io/z3fr9lhps/Tech%20Blog/Hackaton%20TokenNation/(3)%20TOKENNATION%202026%20-%20DIA%202%20BIENAL%20DE%20S%C3%83O%20PAULO%20(2).jpeg" width="100%" alt="Hackathon TokenNation"/>
-      </a>
+      <a href="https://www.youtube.com/watch?v=ujW-e6w3NQA"><img src="https://img.youtube.com/vi/ujW-e6w3NQA/maxresdefault.jpg" width="100%" alt="Como Orquestrar Agentes de IA com Uma Skill de Graça"/></a>
       <br/>
-      <a href="https://kc1t.com/pt-br/logs/1000-dolares-meu-primeiro-hackathon-e-um-dos-maiores-desafios-que-ja-tive-como-dev"><b>$1000 — Meu primeiro hackathon</b></a>
+      <a href="https://www.youtube.com/watch?v=ujW-e6w3NQA"><b>Como Orquestrar Agentes de IA com Uma Skill de Graça</b></a>
+      <br/>
+      <sub>👁 59 mil visualizações</sub>
+    </td>
+  </tr>
+</table>
+
+## 📝 >_ Artigos
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://kc1t.com/pt-br/logs/hatrick-world-cup-hackathon-superteam"><img src="assets/cards/artigo-hatrick.jpg" width="100%" alt="Hatrick: o jogo feito de dados da Copa"/></a>
+      <br/>
+      <a href="https://kc1t.com/pt-br/logs/hatrick-world-cup-hackathon-superteam"><b>Hatrick: o jogo feito de dados da Copa</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://kc1t.com/pt-br/logs/ideathon-fiap-google-segundo-lugar"><img src="assets/cards/artigo-ideathon.jpg" width="100%" alt="Como um ideathon me levou ao Google"/></a>
+      <br/>
+      <a href="https://kc1t.com/pt-br/logs/ideathon-fiap-google-segundo-lugar"><b>Como um ideathon me levou ao Google</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://kc1t.com/pt-br/logs/1000-dolares-meu-primeiro-hackathon-e-um-dos-maiores-desafios-que-ja-tive-como-dev"><img src="assets/cards/artigo-1000-dolares.jpg" width="100%" alt="1.000 dólares, meu primeiro hackathon (Kori)"/></a>
+      <br/>
+      <a href="https://kc1t.com/pt-br/logs/1000-dolares-meu-primeiro-hackathon-e-um-dos-maiores-desafios-que-ja-tive-como-dev"><b>1.000 dólares, meu primeiro hackathon (Kori)</b></a>
+    </td>
+  </tr>
+</table>
+
+## 🚀 >_ Softwares
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Kc1t/alethe-agents"><img src="https://opengraph.githubassets.com/1/Kc1t/alethe-agents" width="100%" alt="Alethe Agents"/></a>
+      <br/>
+      <a href="https://github.com/Kc1t/alethe-agents"><b>Alethe Agents</b></a>
+      <br/>
+      <sub>workspace desktop para agentes de código</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Kc1t/alethe-orchestrate-skill"><img src="https://opengraph.githubassets.com/1/Kc1t/alethe-orchestrate-skill" width="100%" alt="Alethe Orchestrate Skill"/></a>
+      <br/>
+      <a href="https://github.com/Kc1t/alethe-orchestrate-skill"><b>Alethe Orchestrate Skill</b></a>
+      <br/>
+      <sub>orquestra Codex, Claude Code e mais</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/project-hattrick/hatrick"><img src="https://opengraph.githubassets.com/1/project-hattrick/hatrick" width="100%" alt="Hatrick"/></a>
+      <br/>
+      <a href="https://github.com/project-hattrick/hatrick"><b>Hatrick</b></a>
+      <br/>
+      <sub>🏆 1º lugar em 2 trilhas do World Cup Hackathon</sub>
     </td>
   </tr>
 </table>
